@@ -1,0 +1,10 @@
+# Root-level ignores
+venv/
+*.log
+*.pyc
+*.pyo
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
+.env
